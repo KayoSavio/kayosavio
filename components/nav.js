@@ -13,6 +13,9 @@ export default function Nav() {
           <Link href="/">
             <a className="text-blue-500 no-underline">Home</a>
           </Link>
+          <Link href="/sobre">
+            <a className="text-blue-500 no-underline">Sobre</a>
+          </Link>
         </li>
         <ul className="flex justify-between items-center space-x-4">
           {links.map(({ href, label }) => (
