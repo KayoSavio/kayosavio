@@ -14,7 +14,9 @@ My main technologies:
     <img align="center" alt="Kayo-Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
   </div>
 
-
+##    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayosavio&layout=donut-vertical)](https://github.com/kayosavio/github-readme-stats)
+##
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -24,7 +26,6 @@ My main technologies:
   <a href = "mailto:kayosavio@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kayo-savio-348892129" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayosavio&layout=donut-vertical)](https://github.com/kayosavio/github-readme-stats)
+
   
 </div>
