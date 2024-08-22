@@ -3,8 +3,11 @@ I have 27 years old, i'm a frontend developer and designer. I like to create sol
 
 
 <div style="display: flex;"> 
+  
   [![Kayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayosavio&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/kayosavio/github-readme-stats)
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayosavio&layout=donut-vertical)](https://github.com/kayosavio/github-readme-stats)
+  
 </div>
  
 My main technologies:
