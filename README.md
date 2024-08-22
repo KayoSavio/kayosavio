@@ -18,7 +18,7 @@ I have 27 years old, i'm a frontend developer and designer.<br> I like to create
   </div>
 
 ##    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayosavio&layout=donut-vertical)](https://github.com/kayosavio/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayosavio&layout=donut-vertical&theme=dark#gh-dark-mode-only)](https://github.com/kayosavio/github-readme-stats)
 ##
 
 # Contact
