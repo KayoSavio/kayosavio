@@ -1,5 +1,5 @@
-Hy! I'm Kayo Sávio ✌️🇧🇷
-<br>I have 27 years old, i'm a frontend developer and designer. I like to create solutions with tecnology for real problems.
+<span style="font-bold: 500; font-family: 'Nunito Sans', sans-serif, font-size: 24px">Hy! I'm Kayo Sávio ✌️🇧🇷</style>
+<br>I have 27 years old, i'm a frontend developer and designer.<br> I like to create solutions with tecnology for real problems.
 
   [![Kayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayosavio&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/kayosavio/github-readme-stats)
    
