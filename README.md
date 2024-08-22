@@ -1,15 +1,8 @@
 Hy! I'm Kayo Sávio ✌️🇧🇷
 I have 27 years old, i'm a frontend developer and designer. I like to create solutions with tecnology for real problems.
 
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr)"> 
-  
   [![Kayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayosavio&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/kayosavio/github-readme-stats)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayosavio&layout=donut-vertical)](https://github.com/kayosavio/github-readme-stats)
-  
-</div>
- 
+   
 My main technologies:
 <div style="display: inline_block"><br>
     <img align="center" alt="Kayo-Js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
@@ -20,6 +13,8 @@ My main technologies:
     <img align="center" alt="Kayo-Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
     <img align="center" alt="Kayo-Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
   </div>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayosavio&layout=donut-vertical)](https://github.com/kayosavio/github-readme-stats)
 
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
