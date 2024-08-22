@@ -1,6 +1,9 @@
 # Hy! I'm Kayo Sávio ✌️🇧🇷	
 I have 27 years old, i'm a frontend developer and designer.<br> I like to create solutions with tecnology for real problems.
 
+<a href="[https://www.youtube.com/@kayosavio8698](https://www.linkedin.com/in/kayo-savio-348892129/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+##
   [![Kayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayosavio&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/kayosavio/github-readme-stats)
    
 # My main technologies:
