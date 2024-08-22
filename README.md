@@ -1,7 +1,7 @@
 Hy! I'm Kayo Sávio ✌️🇧🇷
 I have 27 years old, i'm a frontend developer and designer. I like to create solutions with tecnology for real problems.
 
-[![Kayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayosavio)](https://github.com/kayosavio/github-readme-stats)
+[![Kayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayosavio&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/kayosavio/github-readme-stats)
 
 My main technologies:
 <div style="display: inline_block"><br>
