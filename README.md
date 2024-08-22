@@ -1,6 +1,8 @@
 Hy! I'm Kayo Sávio ✌️🇧🇷
 I have 27 years old, i'm a frontend developer and designer. I like to create solutions with tecnology for real problems.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayosavio)](https://github.com/anuraghazra/github-readme-stats)
+
 My main technologies:
 <div style="display: inline_block"><br>
   <img align="center" alt="Kayo-Js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
